@@ -25,5 +25,5 @@ OpenCV를 사용하여 실시간으로 카메라 영상을 상하 반전(Vertica
 
 ## 데모 동영상 (저장소 파일)
 - 이 영상은 opencv를 통해 녹화된 영상입니다. 
-[동영상 다운로드 및 보기](videos/flipped_output.avi)
+[동영상 다운로드 및 보기](video/flipped_output.avi)
 
