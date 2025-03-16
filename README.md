@@ -18,3 +18,10 @@ OpenCV를 사용하여 실시간으로 카메라 영상을 상하 반전(Vertica
 - **OpenCV 라이브러리**: 아래 명령어로 설치 가능합니다.
   ```bash
   pip install opencv-python
+
+## 데모 동영상 (YouTube)
+[YouTube에서 데모 보기](https://www.youtube.com/watch?v=msiHSx5hX5E)
+
+## 데모 동영상 (저장소 파일)
+[동영상 다운로드 및 보기](videos/)
+
