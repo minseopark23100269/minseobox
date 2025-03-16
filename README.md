@@ -22,11 +22,11 @@ OpenCV를 사용하여 실시간으로 카메라 영상을 상하 반전(Vertica
 ## 데모 동영상 (YouTube)
 - 이 영상은 opencv.py 코드를 실행해서 미리보기와 녹화 모드를 실행하고 flip기능을 보여주며 프로그램을 종료하는 과정을 담은 영상입니다.
 - 파일 크기가 커서 유튜브링크를 통해 볼 수 있게 했습니다.
-[YouTube에서 데모 보기](https://www.youtube.com/watch?v=msiHSx5hX5E)
+-[YouTube에서 데모 보기](https://www.youtube.com/watch?v=msiHSx5hX5E)
 
 ## 데모 동영상 (저장소 파일)
 - 이 영상은 opencv를 통해 녹화된 영상입니다.
 - 파일 크기가 커서 웹 인터페이스에서 바로 볼 수가 없습니다.
 - View raw를 클릭하면 볼 수 있습니다!!
-[동영상 다운로드 및 보기](video/flipped_output.avi)
+-[동영상 다운로드 및 보기](video/flipped_output.avi)
 
